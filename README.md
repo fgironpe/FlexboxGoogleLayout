@@ -1,2 +1,3 @@
 # FlexboxGoogleLayout
-Created with CodeSandbox
+
+Google layout with CSS Flexbox.
